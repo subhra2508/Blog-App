@@ -1,5 +1,5 @@
 *.log
 *.pot
 *.pyc
-../mysite/__pycache__/
-__pycache__
+__pycache__/
+db.sqlite3
