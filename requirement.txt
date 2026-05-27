@@ -1,5 +1,5 @@
-asgiref==3.4.1
+asgiref
 Django >=5.0
-pytz==2021.1
-sqlparse==0.4.1
-typing-extensions==3.10.0.2
+pytz
+sqlparse
+typing-extensions
