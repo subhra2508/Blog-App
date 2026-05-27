@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-yk2@8s%zo(t-h%d-3!vrvj5v3_2jdss+rh2253z(tj&(w1gyo*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["cicd-demo-service-167330669808.us-central1.run.app"]
 
 
 # Application definition
