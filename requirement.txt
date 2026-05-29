@@ -3,3 +3,5 @@ Django
 pytz
 sqlparse
 typing-extensions
+PyYAML>=6.0.1
+
